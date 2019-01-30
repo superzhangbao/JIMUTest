@@ -50,6 +50,7 @@ dependencies {
     annotationProcessor deps.jimu.router_anno_compiler
 }
 
+//生命周期部分内容，这是加载组件的一种方式，另一种是反射，比这种更灵活
 //combuild {
 //    applicationName = 'com.luojilab.componentdemo.application.AppApplication'
 //    isRegisterCompoAuto = false

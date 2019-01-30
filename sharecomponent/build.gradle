@@ -43,6 +43,7 @@ dependencies {
     compile deps.kotlin.kotlin_jdk7
 }
 
+
 //combuild {
 //    applicationName = 'com.luojilab.share.runalone.application.ShareApplication'
 //    isRegisterCompoAuto = false
